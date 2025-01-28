@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "linkedlist.h": "c",
+        "macro_handler.h": "c",
+        "tools.h": "c",
+        "errors.h": "c",
+        "utils_first_pass.h": "c",
+        "firstpass.h": "c",
+        "dynamic_arr.h": "c",
+        "lexer.h": "c",
+        "preasm.h": "c"
+    }
+}
